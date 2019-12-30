@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "function.h": "c",
+        "log.h": "c",
+        "mcu.h": "c",
+        "m26.h": "c",
+        "mylib.h": "c",
+        "fifo.h": "c",
+        "socket.h": "c",
+        "bsp.h": "c"
+    }
+}

@@ -1,0 +1,21 @@
+caijiqi_pcb35\bsp.o: ..\myfunc\bsp\bsp.c
+caijiqi_pcb35\bsp.o: ..\myfunc\bsp\bsp.h
+caijiqi_pcb35\bsp.o: ..\myfunc\sys\sys.h
+caijiqi_pcb35\bsp.o: ..\myfunc\mylib_v2019_A\mylib.h
+caijiqi_pcb35\bsp.o: ..\myfunc\mylib_v2019_A\typedef.h
+caijiqi_pcb35\bsp.o: ..\myfunc\mylib_v2019_A\func_bit.h
+caijiqi_pcb35\bsp.o: ..\myfunc\mylib_v2019_A\frame.h
+caijiqi_pcb35\bsp.o: ..\myfunc\mylib_v2019_A\fifo.h
+caijiqi_pcb35\bsp.o: ..\myfunc\mylib_v2019_A\lock.h
+caijiqi_pcb35\bsp.o: ..\myfunc\mylib_v2019_A\data_transform.h
+caijiqi_pcb35\bsp.o: ..\myfunc\mylib_v2019_A\mystring.h
+caijiqi_pcb35\bsp.o: D:\Program Files (x86)\Work Application\ARM\ARMCC\Bin\..\include\string.h
+caijiqi_pcb35\bsp.o: ..\myfunc\mylib_v2019_A\timeout.h
+caijiqi_pcb35\bsp.o: ..\myfunc\mylib_v2019_A\mymath.h
+caijiqi_pcb35\bsp.o: ..\myfunc\mylib_v2019_A\socket.h
+caijiqi_pcb35\bsp.o: ..\myfunc\bsp\driver\M26.h
+caijiqi_pcb35\bsp.o: ..\myfunc\bsp\driver\EC20.h
+caijiqi_pcb35\bsp.o: ..\myfunc\bsp\driver\rs485.h
+caijiqi_pcb35\bsp.o: ..\myfunc\bsp\mcu\com.h
+caijiqi_pcb35\bsp.o: ..\myfunc\bsp\driver\TM1637.h
+caijiqi_pcb35\bsp.o: ..\myfunc\bsp\driver\eeprom.h
